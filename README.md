@@ -1,12 +1,12 @@
 # 3D-Bioprinting 
 3D printing of Biological Materials: Types of Bioprinting and Applications
+
 Assignment for 3D-Printing NTUA: Automation Systems and Robotics
 
-This assignment was from the students:
-  Evangelos Karavas,
-  Dimitrios Manolias,
-  and Nikolaos Marios Patsouras.
+This assignment was from:
+Evangelos Karavas,                                                                                                                                                                                                     Dimitrios Manolias, and                                                                                                                                                                                                Nikolaos Marios Patsouras.
 
+# Preview 
 The technology of three-dimensional (3D) printing of biological materials is an 
 emerging field that combines biotechnology with advanced printing 
 technology. This meeting of the two disciplines has the potential to 
