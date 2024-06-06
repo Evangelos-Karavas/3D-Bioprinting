@@ -2,9 +2,9 @@
 3D printing of Biological Materials: Types of Bioprinting and Applications
 
 This assignment was from the students:
-  Evangelos Karavas
-  Dimitrios Manolias
-  Nikolas Marios Patsouras
+  Evangelos Karavas,
+  Dimitrios Manolias,
+  and Nikolas Marios Patsouras
 
 The technology of three-dimensional (3D) printing of biological materials is an 
 emerging field that combines biotechnology with advanced printing 
